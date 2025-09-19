@@ -1,4 +1,4 @@
-import { Users, Upload, ListChecks, LayoutDashboard, Map } from 'lucide-react';
+import { Users, Upload, ListChecks, LayoutDashboard, Map, Bot } from 'lucide-react';
 
 export const adminNavItems = [
   {
@@ -31,5 +31,10 @@ export const officerNavItems = [
     title: 'Cable GIS Map',
     href: '/officer/map',
     icon: Map,
+  },
+  {
+    title: 'AI Assistant',
+    href: '/officer/gpt',
+    icon: Bot,
   },
 ];

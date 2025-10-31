@@ -23,7 +23,7 @@ export default function AiAssistantPage() {
                             You can ask questions, analyze compliance data, and get instant insights from your railway assets.
                         </p>
                         <Link
-                            href="https://ai-chatbot-vie9fus4y-smarak-choudhurys-projects.vercel.app/" // <-- IMPORTANT: Replace with your actual hosted link
+                            href="https://ai-chatbot-lime-one.vercel.app//" // 
                             target="_blank"
                             rel="noopener noreferrer"
                             className="inline-flex items-center justify-center gap-2 px-8 py-4 font-semibold text-white bg-indigo-600 rounded-lg shadow-sm hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2 transition-transform transform hover:scale-105"
